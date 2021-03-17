@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb://localhost:27017/ELS_DEV",
-  "jsonWebTokenSecret": "You can't hack me!!!",
-  "cloud": "mongodb+srv://astral29:jw79rSi0mx1Y2g2r@cluster0.fuvz6.mongodb.net/stack1?retryWrites=true&w=majority"
-}
