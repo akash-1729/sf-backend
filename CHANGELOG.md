@@ -7,11 +7,11 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* helllooo ([9ba6f6d](https://github.com/mokkapps/changelog-generator-demo/commits/9ba6f6d7592f5cc352db200a6f480bfa93dca764))
+* helllooo ([9ba6f6d](https://github.com/akash-1729/sf-backend/commits/9ba6f6d7592f5cc352db200a6f480bfa93dca764))
 
 
 ### Bug Fixes
 
-* helllooo ([2a8194b](https://github.com/mokkapps/changelog-generator-demo/commits/2a8194b190e03b8cc8dc35693ff7d5d26516ace1))
+* helllooo ([2a8194b](https://github.com/akash-1729/sf-backend/commits/2a8194b190e03b8cc8dc35693ff7d5d26516ace1))
 
 ## 1.0.0 (2021-09-09)
