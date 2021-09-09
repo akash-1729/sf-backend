@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/akash-1729/sf-backend/compare/v1.1.0...v2.0.0) (2021-09-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* broke
+
+* broke ([f802ee5](https://github.com/akash-1729/sf-backend/commits/f802ee5ec941865014cb015741e228dcfc670664))
+
 ## 1.1.0 (2021-09-09)
 
 
