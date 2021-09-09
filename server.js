@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 
 //check api status
 app.get("/", (req, res) => {
-  res.send("API is working fine");
+  res.send("API is working fineaaa");
 });
 
 //set routes
